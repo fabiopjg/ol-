@@ -1,0 +1,72 @@
+body{
+    width: 960px;
+    background-color:snow;
+    margin: auto;
+}
+
+h1{
+    background: linear-gradient(#72afc2,#446496);
+    padding: 0px 0px 0px 400px;
+    font-family:  monospace;
+    color: white;
+}
+#imagem{
+    width: 200px;
+    padding: 10px 0px 10px 0px;
+    border:10px  solid #446496;
+}
+.caracteres{
+    padding: 0px 270px 0px 0px ;
+    float: right;
+    font-size: 17px ;
+    font-family: monospace;
+}
+
+h2{
+    font-family: monospace;
+    background: linear-gradient(#72afc2, #446496);
+    padding: 0px 0px 0px 400px;
+    color: white;
+}
+#first{
+    width: 200px;
+    padding: 20px 0px 0px 100px;
+}
+#sec{
+    width: 350px;
+}
+.thir{
+    width: 200px;
+}
+.fou{
+    width: 200px;
+    padding: 0px 0px 0px 100px;
+}
+.fiv{
+    width: 350px;
+}
+.six{
+    width: 200px;
+}
+h3{
+    font-family: monospace;
+    background: linear-gradient(#72afc2, #446496);
+    padding: 0px 0px 0px 380px;
+    color: white;
+}
+.info{
+   
+    font-size: 18px ;
+    font-family: monospace;
+   
+}
+.frase{
+    padding: 50px 0px 0px 200px;
+    font-family: monospace;
+    font-size: 20px;
+}
+#escri{
+    padding: 10px 0px 0px 370px;
+    font-family: monospace;
+    font-size: 18px;
+}
